@@ -5,6 +5,7 @@ Most recent job title: {{ INSERT MOST RECENT JOB TITLE }}
 Reason for layoff: {{ INSERT REASON FOR LAYOFF }}
 
 ####
+
 {{ INSERT PREVIOUS LAY-OFF ANNOUNCEMENT }}
 
 #####
