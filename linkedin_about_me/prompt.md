@@ -2,7 +2,7 @@ Delimited below by 4 hash marks is my current "About Me" section on my LinkedIn 
 
 ####
 
-{{ INSERT CURRENT LINKEDIN DESCRIPTION }}
+{{ INSERT CURRENT LINKEDIN ABOUT ME }}
 
 #####
 
